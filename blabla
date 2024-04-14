@@ -1,0 +1,9 @@
+schema = {
+    "type" : "object",
+    "properties" : {
+        "todo" : {"type" : "string"}
+    }
+    # sen tek message tutucan dmi ?
+    # title olmayacak ?
+    def add():
+
